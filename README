@@ -1,0 +1,3 @@
+tsw_wiki.pl - generates table content for region missions at http://wiki.crygaia.com
+              need to manually check for items. they are not in specified place in html structure
+              need to manually check link for mission. ( it can contain " (Mission)" )
