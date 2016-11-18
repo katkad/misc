@@ -1,0 +1,338 @@
+44430 -> b
+0 -> c
+b RSHIFT 5 -> f
+b RSHIFT 3 -> e
+b RSHIFT 2 -> d
+b RSHIFT 1 -> v
+c LSHIFT 1 -> t
+e OR f -> g
+e AND f -> h
+NOT h -> i
+g AND i -> j
+d AND j -> l
+d OR j -> k
+NOT l -> m
+k AND m -> n
+b OR n -> o
+b AND n -> p
+NOT p -> q
+o AND q -> r
+1 AND r -> s
+s LSHIFT 15 -> w
+t OR s -> u
+v OR w -> x
+x RSHIFT 5 -> aa
+x RSHIFT 1 -> aq
+x RSHIFT 2 -> y
+x RSHIFT 3 -> z
+z AND aa -> ac
+z OR aa -> ab
+NOT ac -> ad
+ab AND ad -> ae
+y OR ae -> af
+y AND ae -> ag
+NOT ag -> ah
+af AND ah -> ai
+x AND ai -> ak
+x OR ai -> aj
+NOT ak -> al
+aj AND al -> am
+1 AND am -> an
+an LSHIFT 15 -> ar
+aq OR ar -> as
+as RSHIFT 1 -> bl
+as RSHIFT 3 -> au
+as RSHIFT 2 -> at
+as RSHIFT 5 -> av
+au OR av -> aw
+au AND av -> ax
+NOT ax -> ay
+aw AND ay -> az
+at OR az -> ba
+at AND az -> bb
+NOT bb -> bc
+ba AND bc -> bd
+as AND bd -> bf
+as OR bd -> be
+NOT bf -> bg
+be AND bg -> bh
+1 AND bh -> bi
+u LSHIFT 1 -> ao
+ao OR an -> ap
+ap LSHIFT 1 -> bj
+bj OR bi -> bk
+bk LSHIFT 1 -> ce
+bi LSHIFT 15 -> bm
+bl OR bm -> bn
+bn RSHIFT 2 -> bo
+bn RSHIFT 3 -> bp
+bn RSHIFT 5 -> bq
+bp AND bq -> bs
+bp OR bq -> br
+NOT bs -> bt
+br AND bt -> bu
+bo AND bu -> bw
+bo OR bu -> bv
+NOT bw -> bx
+bv AND bx -> by
+bn AND by -> ca
+bn OR by -> bz
+NOT ca -> cb
+bz AND cb -> cc
+1 AND cc -> cd
+ce OR cd -> cf
+cd LSHIFT 15 -> ch
+cf LSHIFT 1 -> cz
+bn RSHIFT 1 -> cg
+cg OR ch -> ci
+ci RSHIFT 2 -> cj
+ci RSHIFT 5 -> cl
+ci RSHIFT 3 -> ck
+ck OR cl -> cm
+ck AND cl -> cn
+NOT cn -> co
+cm AND co -> cp
+cj AND cp -> cr
+cj OR cp -> cq
+NOT cr -> cs
+cq AND cs -> ct
+ci AND ct -> cv
+ci RSHIFT 1 -> db
+ci OR ct -> cu
+NOT cv -> cw
+cu AND cw -> cx
+1 AND cx -> cy
+cy LSHIFT 15 -> dc
+cz OR cy -> da
+da LSHIFT 1 -> du
+db OR dc -> dd
+dd RSHIFT 2 -> de
+dd RSHIFT 3 -> df
+dd RSHIFT 5 -> dg
+df OR dg -> dh
+df AND dg -> di
+NOT di -> dj
+dh AND dj -> dk
+de OR dk -> dl
+de AND dk -> dm
+NOT dm -> dn
+dl AND dn -> do
+dd OR do -> dp
+dd AND do -> dq
+NOT dq -> dr
+dp AND dr -> ds
+1 AND ds -> dt
+du OR dt -> dv
+dt LSHIFT 15 -> dx
+dd RSHIFT 1 -> dw
+dw OR dx -> dy
+dy RSHIFT 5 -> eb
+dy RSHIFT 2 -> dz
+dy RSHIFT 1 -> er
+dy RSHIFT 3 -> ea
+ea OR eb -> ec
+ea AND eb -> ed
+NOT ed -> ee
+ec AND ee -> ef
+dz AND ef -> eh
+dz OR ef -> eg
+NOT eh -> ei
+eg AND ei -> ej
+dy AND ej -> el
+dy OR ej -> ek
+NOT el -> em
+ek AND em -> en
+1 AND en -> eo
+dv LSHIFT 1 -> ep
+ep OR eo -> eq
+eo LSHIFT 15 -> es
+er OR es -> et
+et RSHIFT 2 -> eu
+et RSHIFT 3 -> ev
+et RSHIFT 1 -> fm
+et RSHIFT 5 -> ew
+ev AND ew -> ey
+ev OR ew -> ex
+NOT ey -> ez
+ex AND ez -> fa
+eu AND fa -> fc
+eu OR fa -> fb
+NOT fc -> fd
+fb AND fd -> fe
+et OR fe -> ff
+et AND fe -> fg
+NOT fg -> fh
+ff AND fh -> fi
+1 AND fi -> fj
+fj LSHIFT 15 -> fn
+fm OR fn -> fo
+fo RSHIFT 5 -> fr
+fo RSHIFT 1 -> gh
+fo RSHIFT 2 -> fp
+fo RSHIFT 3 -> fq
+fq AND fr -> ft
+fq OR fr -> fs
+NOT ft -> fu
+fs AND fu -> fv
+fp AND fv -> fx
+fp OR fv -> fw
+NOT fx -> fy
+fw AND fy -> fz
+fo OR fz -> ga
+fo AND fz -> gb
+NOT gb -> gc
+ga AND gc -> gd
+1 AND gd -> ge
+ge LSHIFT 15 -> gi
+eq LSHIFT 1 -> fk
+fk OR fj -> fl
+fl LSHIFT 1 -> gf
+gf OR ge -> gg
+gg LSHIFT 1 -> ha
+gh OR gi -> gj
+gj RSHIFT 3 -> gl
+gj RSHIFT 1 -> hc
+gj RSHIFT 5 -> gm
+gj RSHIFT 2 -> gk
+gl AND gm -> go
+gl OR gm -> gn
+NOT go -> gp
+gn AND gp -> gq
+gk AND gq -> gs
+gk OR gq -> gr
+NOT gs -> gt
+gr AND gt -> gu
+gj AND gu -> gw
+gj OR gu -> gv
+NOT gw -> gx
+gv AND gx -> gy
+1 AND gy -> gz
+gz LSHIFT 15 -> hd
+hc OR hd -> he
+ha OR gz -> hb
+he RSHIFT 1 -> hx
+he RSHIFT 3 -> hg
+he RSHIFT 5 -> hh
+hg AND hh -> hj
+he RSHIFT 2 -> hf
+hg OR hh -> hi
+NOT hj -> hk
+hi AND hk -> hl
+hf AND hl -> hn
+hf OR hl -> hm
+NOT hn -> ho
+hm AND ho -> hp
+he OR hp -> hq
+he AND hp -> hr
+NOT hr -> hs
+hq AND hs -> ht
+1 AND ht -> hu
+hu LSHIFT 15 -> hy
+hx OR hy -> hz
+hb LSHIFT 1 -> hv
+hv OR hu -> hw
+hz RSHIFT 3 -> ib
+hz RSHIFT 2 -> ia
+hz RSHIFT 5 -> ic
+hz RSHIFT 1 -> is
+ib OR ic -> id
+ib AND ic -> ie
+NOT ie -> if
+id AND if -> ig
+ia OR ig -> ih
+ia AND ig -> ii
+NOT ii -> ij
+ih AND ij -> ik
+hz OR ik -> il
+hz AND ik -> im
+NOT im -> in
+il AND in -> io
+1 AND io -> ip
+ip LSHIFT 15 -> it
+hw LSHIFT 1 -> iq
+iq OR ip -> ir
+ir LSHIFT 1 -> jl
+is OR it -> iu
+iu RSHIFT 3 -> iw
+iu RSHIFT 5 -> ix
+iu RSHIFT 1 -> jn
+iu RSHIFT 2 -> iv
+iw AND ix -> iz
+iw OR ix -> iy
+NOT iz -> ja
+iy AND ja -> jb
+iv AND jb -> jd
+iv OR jb -> jc
+NOT jd -> je
+jc AND je -> jf
+iu AND jf -> jh
+iu OR jf -> jg
+NOT jh -> ji
+jg AND ji -> jj
+1 AND jj -> jk
+jk LSHIFT 15 -> jo
+jl OR jk -> jm
+jn OR jo -> jp
+jp RSHIFT 1 -> ki
+jp RSHIFT 2 -> jq
+jp RSHIFT 5 -> js
+jp RSHIFT 3 -> jr
+jr OR js -> jt
+jr AND js -> ju
+NOT ju -> jv
+jt AND jv -> jw
+jq AND jw -> jy
+jq OR jw -> jx
+NOT jy -> jz
+jx AND jz -> ka
+jp AND ka -> kc
+jp OR ka -> kb
+NOT kc -> kd
+kb AND kd -> ke
+1 AND ke -> kf
+kf LSHIFT 15 -> kj
+jm LSHIFT 1 -> kg
+kg OR kf -> kh
+kh LSHIFT 1 -> lb
+ki OR kj -> kk
+kk RSHIFT 2 -> kl
+kk RSHIFT 3 -> km
+kk RSHIFT 5 -> kn
+kk RSHIFT 1 -> ld
+km OR kn -> ko
+km AND kn -> kp
+NOT kp -> kq
+ko AND kq -> kr
+kl OR kr -> ks
+kl AND kr -> kt
+NOT kt -> ku
+ks AND ku -> kv
+kk AND kv -> kx
+kk OR kv -> kw
+NOT kx -> ky
+kw AND ky -> kz
+1 AND kz -> la
+la LSHIFT 15 -> le
+lb OR la -> lc
+ld OR le -> lf
+lf RSHIFT 2 -> lg
+lf RSHIFT 1 -> ly
+lf RSHIFT 5 -> li
+lf RSHIFT 3 -> lh
+lh OR li -> lj
+lh AND li -> lk
+NOT lk -> ll
+lj AND ll -> lm
+lg OR lm -> ln
+lg AND lm -> lo
+NOT lo -> lp
+ln AND lp -> lq
+lf AND lq -> ls
+lf OR lq -> lr
+NOT ls -> lt
+lr AND lt -> lu
+1 AND lu -> lv
+lv LSHIFT 15 -> lz
+lc LSHIFT 1 -> lw
+lw OR lv -> lx
+lx -> b

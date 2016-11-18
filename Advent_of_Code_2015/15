@@ -1,0 +1,44 @@
+30 Sprinkles:    capacity 5,  durability -1, flavor 0, texture 0, calories 5
+32 PeanutButter: capacity -1, durability 3,  flavor 0, texture 0, calories 1
+18 Frosting:     capacity 0,  durability -1, flavor 4, texture 0, calories 6
+20 Sugar:        capacity -1, durability 0,  flavor 0, texture 2, calories 8
+
+4 2 3 1
+10 30 20 40
+
+34 21 28 14
+
+39 * 63 * 112 * 28
+7705152
+
+70 * 84 * 84 * 68
+33586560
+
+0*14 + 0*28 + 0*21 + 0*21 + 2*34
+
+70 -20 -30
+
+25 25 25 25
+
+5*30  -1*32   + 0   -1*20   = 98
+-1*30 + 3*32  -1*18  + 0    = 48
+0     +  0  +  4*18  + 0   =  72
+0     +  0  +   0    + 2*20 = 40
+
+my $x = 5 * $a - $b - $d;
+my $y = -$a + 3*$b - $c;
+my $z = 4*$c;
+my $v = 2*d;
+
+ked dam vsade 25:
+9375000
+too low
+
+10300800
+11081400
+12974400 - nie je dobre
+13298688
+31 32 18 19
+13373568 - nie je dobre
+13437864
+13547520

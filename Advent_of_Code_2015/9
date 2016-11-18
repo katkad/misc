@@ -1,0 +1,35 @@
+Norrath to Straylight = 54
+Arbre to Straylight = 40
+Faerun to Arbre = 24
+AlphaCentauri to Snowdin = 12
+Snowdin to Tambi = 15
+Tristram to Tambi = 49
+
+Norrath to AlphaCentauri = 15
+Faerun to Snowdin = 60
+
+Faerun to AlphaCentauri = 13
+
+Faerun to Tristram = 58
+Norrath to Snowdin = 75
+Norrath to Tambi = 82
+Tristram to Straylight = 97
+Arbre to Tambi = 53
+AlphaCentauri to Tambi = 18
+
+
+AlphaCentauri to Straylight = 91
+Faerun to Straylight = 67
+
+Tristram to Snowdin = 103
+Tristram to Arbre = 122
+Faerun to Norrath = 129
+AlphaCentauri to Arbre = 116
+
+Faerun to Tambi = 71
+Tambi to Straylight = 70
+Snowdin to Straylight = 99
+Arbre to Snowdin = 129
+Norrath to Arbre = 135
+Norrath to Tristram = 142
+Tristram to AlphaCentauri = 118
